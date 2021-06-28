@@ -15,6 +15,6 @@ async function test(){
 
     //console.log(res)
 
-    //await plc.write('hr100',175)
+    await plc.write('hr100',175)
 
 }
